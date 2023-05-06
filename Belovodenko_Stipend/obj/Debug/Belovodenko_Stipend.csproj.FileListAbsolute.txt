@@ -39,3 +39,17 @@ C:\Users\ivang\OneDrive\Desktop\Новая папка (2)\Belovodenko_Stipend\ob
 C:\Users\ivang\OneDrive\Desktop\Новая папка (2)\Belovodenko_Stipend\obj\Debug\Belovodenko_Stipend.csproj.CopyComplete
 C:\Users\ivang\OneDrive\Desktop\Новая папка (2)\Belovodenko_Stipend\obj\Debug\Belovodenko_Stipend.exe
 C:\Users\ivang\OneDrive\Desktop\Новая папка (2)\Belovodenko_Stipend\obj\Debug\Belovodenko_Stipend.pdb
+C:\Users\ivang\OneDrive\Desktop\Stipend_Creator\Stipend_Creator\Belovodenko_Stipend\bin\Debug\Belovodenko_Stipend.exe.config
+C:\Users\ivang\OneDrive\Desktop\Stipend_Creator\Stipend_Creator\Belovodenko_Stipend\bin\Debug\Belovodenko_Stipend.exe
+C:\Users\ivang\OneDrive\Desktop\Stipend_Creator\Stipend_Creator\Belovodenko_Stipend\bin\Debug\Belovodenko_Stipend.pdb
+C:\Users\ivang\OneDrive\Desktop\Stipend_Creator\Stipend_Creator\Belovodenko_Stipend\bin\Debug\Xceed.Document.NET.dll
+C:\Users\ivang\OneDrive\Desktop\Stipend_Creator\Stipend_Creator\Belovodenko_Stipend\bin\Debug\Xceed.Words.NET.dll
+C:\Users\ivang\OneDrive\Desktop\Stipend_Creator\Stipend_Creator\Belovodenko_Stipend\obj\Debug\Belovodenko_Stipend.csproj.AssemblyReference.cache
+C:\Users\ivang\OneDrive\Desktop\Stipend_Creator\Stipend_Creator\Belovodenko_Stipend\obj\Debug\Belovodenko_Stipend.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivang\OneDrive\Desktop\Stipend_Creator\Stipend_Creator\Belovodenko_Stipend\obj\Debug\Belovodenko_Stipend.Form1.resources
+C:\Users\ivang\OneDrive\Desktop\Stipend_Creator\Stipend_Creator\Belovodenko_Stipend\obj\Debug\Belovodenko_Stipend.Properties.Resources.resources
+C:\Users\ivang\OneDrive\Desktop\Stipend_Creator\Stipend_Creator\Belovodenko_Stipend\obj\Debug\Belovodenko_Stipend.csproj.GenerateResource.cache
+C:\Users\ivang\OneDrive\Desktop\Stipend_Creator\Stipend_Creator\Belovodenko_Stipend\obj\Debug\Belovodenko_Stipend.csproj.CoreCompileInputs.cache
+C:\Users\ivang\OneDrive\Desktop\Stipend_Creator\Stipend_Creator\Belovodenko_Stipend\obj\Debug\Belovodenko_Stipend.csproj.CopyComplete
+C:\Users\ivang\OneDrive\Desktop\Stipend_Creator\Stipend_Creator\Belovodenko_Stipend\obj\Debug\Belovodenko_Stipend.exe
+C:\Users\ivang\OneDrive\Desktop\Stipend_Creator\Stipend_Creator\Belovodenko_Stipend\obj\Debug\Belovodenko_Stipend.pdb
